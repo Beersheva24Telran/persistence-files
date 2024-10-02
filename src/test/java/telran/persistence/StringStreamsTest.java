@@ -47,7 +47,7 @@ public class StringStreamsTest {
           //dir12
         //Consider class Path
         //Consider class Files
-        //Consider method walk https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/nio/file/Files.html#walk(java.nio.file.Path,java.nio.file.FileVisitOption...)  
+        //Consider method https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/nio/file/Files.html#walkFileTree(java.nio.file.Path,java.util.Set,int,java.nio.file.FileVisitor)
     }
 
 }
